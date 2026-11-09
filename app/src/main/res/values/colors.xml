@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF2A55</color>
+    <color name="primary_variant">#D81B43</color>
+    <color name="secondary">#03DAC5</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="surface_variant">#2C2C2C</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="text_highlight">#00E5FF</color>
+    <color name="accent_gold">#FFD700</color>
+    <color name="card_border">#33FFFFFF</color>
+
+    <!-- Overlay themes -->
+    <color name="overlay_dark">#1A1A1A</color>
+    <color name="overlay_amoled">#000000</color>
+    <color name="overlay_slate">#1E293B</color>
+</resources>
+

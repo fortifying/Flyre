@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Flyre</string>
+    <string name="media_listener_service_label">Flyre YouTube Music Listener</string>
+    <string name="floating_service_notification_title">Flyre is running</string>
+    <string name="floating_service_notification_content">Showing floating lyrics overlay</string>
+
+    <!-- UI Strings -->
+    <string name="title_permissions">Setup &amp; Permissions</string>
+    <string name="desc_overlay_perm">Overlay permission is required to show lyrics over YouTube Music and other apps.</string>
+    <string name="btn_grant_overlay">Grant Overlay Permission</string>
+    <string name="desc_notification_perm">Notification access is required to detect currently playing songs from YouTube Music.</string>
+    <string name="btn_grant_notification">Grant Notification Access</string>
+    <string name="perm_granted">Granted</string>
+    <string name="perm_missing">Required</string>
+
+    <string name="title_controls">Flyre Controls</string>
+    <string name="btn_start_service">Launch Floating Lyrics</string>
+    <string name="btn_stop_service">Stop Floating Lyrics</string>
+
+    <string name="title_customization">Customization</string>
+    <string name="label_opacity">Overlay Opacity: %1$d%%</string>
+    <string name="label_font_size">Lyrics Font Size: %1$dsp</string>
+    <string name="label_color_theme">Color Theme</string>
+
+    <!-- Floating window strings -->
+    <string name="no_song_playing">No music detected</string>
+    <string name="waiting_for_yt_music">Play a song on YouTube Music to begin</string>
+    <string name="searching_lyrics">Searching lyrics for %1$s…</string>
+    <string name="lyrics_not_found">No lyrics found for this track</string>
+    <string name="btn_search_manually">Search Manually</string>
+    <string name="search_hint">Track title or artist…</string>
+    <string name="btn_search">Search</string>
+    <string name="instrumental_track">Instrumental track (No lyrics)</string>
+</resources>
+
